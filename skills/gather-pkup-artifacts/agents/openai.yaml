@@ -1,0 +1,4 @@
+interface:
+  display_name: "Gather PKUP Artifacts"
+  short_description: "Build PKUP commit artifact tables"
+  default_prompt: "Use $gather-pkup-artifacts to collect PKUP submission artifacts from this Git repository."
