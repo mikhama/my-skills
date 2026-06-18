@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain Current Flow"
+  short_description: "Explain behavior from OpenSpec and code"
+  default_prompt: "Use $explain-current-flow to explain how checkout cancellation works right now from OpenSpec and code."
